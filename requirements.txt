@@ -50,4 +50,5 @@ tzlocal==4.2
 urllib3==1.26.12
 validators==0.20.0
 watchdog==2.1.9
+xgboost==1.6.2
 zipp==3.8.1
